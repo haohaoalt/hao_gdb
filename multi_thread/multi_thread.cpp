@@ -1,9 +1,9 @@
 /*
  * @Author: zhanghao
  * @Date: 2023-08-10 21:10:44
- * @LastEditTime: 2023-08-10 22:21:42
+ * @LastEditTime: 2023-08-10 22:23:07
  * @FilePath: /Dev/hao_gdb/multi_thread/multi_thread.cpp
- * @Description: 
+ * @Description: multi_thread for gdb
  */
 #include <iostream>
 #include <pthread.h>
